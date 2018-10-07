@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Simple_Test_Task:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_Test_Task_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Simple_Test_Task.jar">
+        <element id="module-output" name="Simple_Test_Task" />
+      </element>
+    </root>
+  </artifact>
+</component>
